@@ -74,29 +74,6 @@ namespace Rec.acessadores_e_Classe
             Console.ReadKey();
 
             
-            
-
-
-
-
-           
-
-
-
-
-
-
-
-
-
-            
-            
-            
-            
-
-            
-
-            Console.ReadKey();
         }
     }
 }
